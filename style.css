@@ -1,0 +1,33 @@
+body{
+    background: url(background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h3{
+    background-color: aqua;
+    color: rgb(69, 69, 69);
+}
+.Disk1{
+    left: 10px;
+    height: 200px;
+    width: 200px;
+}
+.Disk2{
+   right: 10px;
+    height: 200px;
+    width: 200px;
+}
+
+.Volume{
+    float: left;
+    margin-left: 30px;
+}
+
+.Speed{
+float: right;
+margin-right: 30px;
+}
+
+canvas{
+    border: 3px dotted black;
+}
